@@ -1,0 +1,12 @@
+{
+    "name": "com.holadivinus.blxrcomp",
+    "version": "0.0.1",
+    "displayName": "Bonelab XR Component",
+    "description": "Adds the XRInteractorAffordanceStateProvider Component, incredibly usefull for UltEvent shenanigans.",
+    "unity": "2021.3",
+  "author": {
+    "name": "holadivinus",
+    "email": "holadivinus@gmail.com",
+    "url": "https://github.com/holadivinus/BLXRComp"
+  }
+}
